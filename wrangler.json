@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "amp",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2a163d9e-5716-4d32-9721-75a33fb58a6a",
+			"database_name": "amp"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
